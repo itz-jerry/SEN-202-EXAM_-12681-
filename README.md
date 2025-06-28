@@ -1,2 +1,4 @@
-# SEN-202-EXAM_-12681-
-Django project for SEN 202 EXAM 
+##Author
+**Full Name**: Jerry Odion  
+**Matric Number**: <VUG/SEN/24/12681>  
+**GitHub Username**: [@itz-jerry](https://github.com/itz-jerry) 
