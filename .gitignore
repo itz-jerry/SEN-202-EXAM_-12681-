@@ -1,0 +1,11 @@
+jerry_sen202_env/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.vscode/
+
+**/migrations/*.py
+!**/migrations/__init__.py
